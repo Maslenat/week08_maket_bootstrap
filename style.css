@@ -1,3 +1,6 @@
 .nav_background{
     background-color: gray;
 }
+.blockquote-footer::before {
+    content: "";
+}
